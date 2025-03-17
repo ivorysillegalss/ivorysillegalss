@@ -1,8 +1,8 @@
 # Hey! Nice to see you.👋 I'm czc！<img src="./img/cat.gif" alt="Meaow" width="50" /> 
 
-🛫 Make Programming Great Again!
+## 🛫 Make Programming Great Again!
 
-🔎 Passionate about
+### 🔎 **Passionate about**
 
  - **Backend Architecture** 
 
@@ -13,16 +13,16 @@
  - **Prompt Engineering**.
 
 
-🚀**Core Skills**
-`Java` `Python` `Go` `C` `C++`
+### 🚀 **Core Skills**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-`Docker` `Kubernetes` `MySQL` `Redis` `Kafka` `Nginx`
 
-😀**Internship**：
+### 😀 **Internship**：
 
-- <div align="left"><img align="center" src="https://github.com/user-attachments/assets/b5c9e2a2-1c5b-4204-ba30-26cb9c5fd990" height="20px"> Baidu 2025.2 ---- now</div> 
+- <div align="left"><img align="center" src="https://www.baidu.com/img/flexible/logo/pc/result@2.png" height="20px">  Baidu 2025.2 ---- now</div> 
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ivorysillegalss&theme=tokyonight&show_icons=true" height="170px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivorysillegalss&layout=compact&theme=tokyonight" height="170px">
 <div>
@@ -33,7 +33,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ivorysillegalss/ivorysillegalss/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## 🔨 Featured Projects
+### 🔨 Featured Projects
 
 - Spreading clouds - **LLM feature with chatGPT Interface**
 
@@ -46,19 +46,19 @@
 - GAE - **Github Ability Evaluator**
 
 
-🥳 Contact me
+### 🥳 Contact me
 
 - 💼 Open for any cooperation.
 
 - 💬 Ask me anything.
 
-**Blog**: [ivorysillegalss's Blog](http://124.71.78.67/)
+- **Blog**: [ivorysillegalss's Blog](http://124.71.78.67/)
 
-**Email**: chenzczczc@gmail.com
+- **Email**: chenzczczc@gmail.com
 
-**Wechat**: ivorysillegal
+- **Wechat**: ivorysillegal
 
-Besides...
+### 🔥 Besides...
 
 I love open source. And I also plan to build an Open Source Community with friends. ✌🏻
 	
