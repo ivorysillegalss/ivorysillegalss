@@ -1,4 +1,4 @@
-# Hey! Nice to see you.👋 I'm czc！<img src="./img/cat.gif" alt="Meaow" width="50" /> 
+# Hey! Nice to see you.👋 I'm Chenzc！<img src="./img/cat.gif" alt="Meaow" width="50" /> 
 
 ## 🛫 Make Programming Great Again!
 
