@@ -35,7 +35,7 @@
 
 ### 🔨 Featured Projects
 
-- Spreading clouds - **LLM feature with chatGPT Interface**
+- SomersaultClouds - **LLM feature with chatGPT Interface**
 
 - communiFlow - **Message Delivery Platform**
 
