@@ -52,7 +52,7 @@
 
 - 💬 Ask me anything.
 
-- **Blog**: [ivorysillegalss's Blog](http://124.71.78.67/)
+- **Blog**: [ivorysillegalss's Blog](https://www.chenzc.xyz/)
 
 - **Email**: chenzczczc@gmail.com
 
