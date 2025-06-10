@@ -20,7 +20,7 @@
 
 ### 😀 **Internship**：
 
-- <div align="left"><img align="center" src="https://www.baidu.com/img/flexible/logo/pc/result@2.png" height="20px">  Baidu 2025.2 ---- now</div> 
+- <div align="left"><img align="center" src="https://www.baidu.com/img/flexible/logo/pc/result@2.png" height="20px">  Baidu 2025.2 ---- 2025.6</div> 
 
 <div align="left">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ivorysillegalss&theme=tokyonight&show_icons=true" height="170px">
